@@ -16,7 +16,7 @@ laravel new my-app
 
 Configure your `.env` app, database, and mail values:
 
-```dotenv
+```env
 APP_*
 DB_*
 MAIL_*
