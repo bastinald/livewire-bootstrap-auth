@@ -19,13 +19,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Bastinald\\Auth\\": "src"
+            "Bastinald\\LivewireBootstrapAuth\\": "src"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Bastinald\\Auth\\Providers\\AuthProvider"
+                "Bastinald\\LivewireBootstrapAuth\\Providers\\LivewireBootstrapAuthProvider"
             ]
         }
     }

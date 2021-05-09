@@ -1,12 +1,12 @@
 <?php
 
-namespace Bastinald\Auth\Commands;
+namespace Bastinald\LivewireBootstrapAuth\Commands;
 
 use Illuminate\Console\Command;
 use Illuminate\Filesystem\Filesystem;
 use Illuminate\Support\Facades\Artisan;
 
-class AuthCommand extends Command
+class MakeAuthCommand extends Command
 {
     protected $name = 'make:auth';
 
