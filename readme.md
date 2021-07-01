@@ -1,8 +1,10 @@
 # No Longer Maintained
 
-Please check out my latest package here: https://github.com/bastinald/laravel-livewire-auth
+Check out my new UI, Auth, & CRUD scaffolding here: https://github.com/bastinald/laravel-livewire-ui
 
-# Livewire Bootstrap Auth
+---
+
+## Livewire Bootstrap Auth
 
 Laravel starter kit with Livewire & Bootstrap 5 auth scaffolding.
 
