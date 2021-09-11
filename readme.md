@@ -1,9 +1,3 @@
-# No Longer Maintained
-
-Check out my UI, Auth, & CRUD scaffolding package here: https://github.com/bastinald/laravel-livewire-ui
-
----
-
 ## Livewire Bootstrap Auth
 
 Laravel starter kit with Livewire & Bootstrap 5 auth scaffolding.
